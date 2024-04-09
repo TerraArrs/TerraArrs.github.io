@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: 1000ms ;
+
+}
+body {
+    background-image: url(media-files/images/annie-spratt-QckxruozjRg-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.MH{
+    width: 100%;
+    height: max-content;
+    background-color: rgba(255, 1, 1, 0.363);
+    transition: 1.5s;
+    
+}
+#Logo{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 3vw;
+    font-family: sans-serif;
+    outline: 1px;
+}
+.Txt{
+    margin-top: 0.5%;
+    background-color: rgb(255, 217, 167);
+    width:30% ;
+    height: max-content;
+    font-size: 2vw;
+
+}
+
+.NAVIGATION{
+    background-color: rgba(171, 149, 123, 0.534);
+    text-decoration: none;
+    color: rgb(247, 211, 211);
+    border: 1.5px;
+    border-style: solid;
+    text-align: center;
+    float:inline-end;
+    font-size: 3vw;
+    margin-left:1% ;
+    
+}
+.NAVIGATION:hover{
+    background-color: rgb(181, 168, 144);
+    font-size: 3.1vw;
+    transition: 2s;
+}
+
+#Side-bar{
+    width: 20%;
+    height: max-content;
+    background-color: rgb(151, 214, 214);
+    
+    
+    float: inline-end;
+    display: inline;
+    font-size: 2vw;
+
+}
