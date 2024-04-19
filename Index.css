@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: 1s linear;
+}
+body{
+    background-color: #0a0a0aee;
+}
+.Logo{
+    margin-top: 5%;
+    margin-left: 25%;
+     
+}
+.Logo:hover{
+    transform: rotate(10deg);
+    
+}
+.MH{
+    width: 90%;
+    height: max-content;
+    background-color: rgb(11, 10, 10);
+}
+li{
+    list-style: none;
+}
+.Nav{
+    font-size: 3vw;
+    margin-left: 2%;
+    color: wheat;
+    text-decoration: none;
+    border: 1px;
+    border-style: solid;
+    
+}
+
+.Nav:hover{
+    font-size: 3.3vw;
+    background-color: rgb(233, 0, 0);
+    color: white;
+
+    
+}
+
+.MB{
+    width: 90%;
+    height: max-content;
+    background-color: rgb(71, 71, 71);
+}
+
+
+#TxtRest{
+    font-size: 3vw;
+}
+
+h1{
+    font-size: 7vw;
+}
+
+#Pub{
+    width: 90%;
+    height: max-content;
+    background-color: rgb(71, 71, 71);
+}
+#Side-Bar{
+    background-color: antiquewhite;
+    width: 50%;
+
+}
+.Write{
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.219);
+}
+#RTS{
+    width:90% ;
+    background-color: rgba(240, 248, 255, 0.297);
+}
+.PB{
+    width: 90%;
+    height: max-content;
+    background-color: rgb(71, 71, 71);
+}
